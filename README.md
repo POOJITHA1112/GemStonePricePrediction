@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gemstone Price Prediction - Utkarsh Gaikwad
 
 ### Introduction About the Data :
@@ -86,3 +87,6 @@ Link : [Model Training Notebook](./notebook/2_Model_Training_Gemstone.ipynb)
 # Model Interpretation with LIME 
 
 Link : [LIME Interpretation](./notebook/3_Explainability_with_LIME.ipynb)
+=======
+# GemStonePricePrediction
+>>>>>>> 037385fb8975834f84ad90af82cb614edce0bfeb
